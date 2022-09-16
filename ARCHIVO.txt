@@ -1,3 +1,26 @@
 en una noche oscura de horrible tempestad
 descargando desde el remoto
 descarga con exito, subiendo al remoto
+
+clone clonar archivo
+pwd   averiguar direccion
+cd cambiar entre carpetas
+git status   estado del repositorio 
+git add.    agrega archivo
+git fetch   nos dice si hay cambios en la rama remota
+git pull actualiza el local con el remoto
+
+
+//para enviar archivos 
+
+git status  revisa si hay cambios
+git add   archivos.html  archivo2 htlm
+git status
+git commit -m ajustando archivos html
+git status
+git fetch
+git status
+git push  nos envia el local al remoto
+git log   directorio de commit y cambios
+
+
